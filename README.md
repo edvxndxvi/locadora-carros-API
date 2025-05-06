@@ -1,4 +1,4 @@
-# API Rest de Locadora de Carros com API REST em ASP.NET Core
+# API Rest de Locadora de Carros em ASP.NET Core
 Projeto desenvolvido como parte da avaliação CP2 da disciplina ADVANCED BUSINESS DEVELOPMENT WITH .NET.
 
 ## ⚙️ Funcionalidades
